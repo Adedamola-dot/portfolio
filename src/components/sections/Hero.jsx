@@ -110,7 +110,7 @@ const Hero = () => {
              {/* Profile Image Placeholder */}
               <div className="relative w-full h-full rounded-2xl overflow-hidden border-4 border-primary-500/20 shadow-2xl">
                 <img 
-                  src="/images/profile.jpeg" 
+                  src="/images/projects/profile.jpeg" 
                   alt="Adebara Adedamola Joshua"
                   className="w-full h-full object-cover object-[center_15%]"
                 />
